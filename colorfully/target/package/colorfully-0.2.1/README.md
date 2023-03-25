@@ -27,7 +27,6 @@ fn main() {
 }
 ```
 
-## use 
 ```
-$cargo add colorfully
+cargo add colorfully
 ```

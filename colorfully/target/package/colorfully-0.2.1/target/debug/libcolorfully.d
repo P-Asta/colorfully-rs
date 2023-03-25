@@ -1,0 +1,1 @@
+C:\Users\computer\Documents\GitHub\colorfully-rs\colorfully\target\package\colorfully-0.2.1\target\debug\libcolorfully.rlib: C:\Users\computer\Documents\GitHub\colorfully-rs\colorfully\target\package\colorfully-0.2.1\src\lib.rs C:\Users\computer\Documents\GitHub\colorfully-rs\colorfully\target\package\colorfully-0.2.1\src\traits.rs
