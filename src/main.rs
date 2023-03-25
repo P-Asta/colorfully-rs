@@ -6,7 +6,7 @@ fn main() {
     println!("{}", "yellow".yellow());
     println!("{}",   "blue".blue().light());
     println!("{}",   "cyan".cyan());
-    println!("{}", "perple".purple().italic());
+    println!("{}", "purple".purple().italic());
     println!("{}",   "gray".gray());
 
     println!();
@@ -17,7 +17,7 @@ fn main() {
     println!("{}", "back ground yellow".bg_yellow());
     println!("{}",   "back ground blue".bg_blue().light());
     println!("{}",   "back ground cyan".bg_cyan());
-    println!("{}", "back ground perple".bg_purple().italic());
+    println!("{}", "back ground purple".bg_purple().italic());
     println!("{}",   "back ground gray".bg_gray());
 
 }
