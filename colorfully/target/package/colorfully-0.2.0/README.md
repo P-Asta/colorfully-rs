@@ -1,3 +1,7 @@
+# colorfully-rs
+your terminal colorfully!
+
+```rs
 use colorfully::*;
 fn main() {
     println!("{}",  "black".reset().bold());
@@ -21,3 +25,4 @@ fn main() {
     println!("{}",   "back ground gray".bg_gray());
 
 }
+```
